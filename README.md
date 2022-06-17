@@ -51,10 +51,12 @@ You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mr
   1-Screenshots of Wer Ist Der Mörder?
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshoots/Wer-Ist-Der-M-rderss1.jpg" alt="Wer Ist Der Mörder?" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshoots/Wer-Ist-Der-M-rderss2.jpg" alt="Wer Ist Der Mörder?" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshoots/Wer-Ist-Der-M-rderss3.jpg" alt="Wer Ist Der Mörder?" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshoots/Wer-Ist-Der-M-rderss4.jpg" alt="Wer Ist Der Mörder?" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rder/Wer-Ist-Der-M-rderss1.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rder/Wer-Ist-Der-M-rderss2.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
+    </tr>
+    <tr>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rder/Wer-Ist-Der-M-rderss3.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rder/Wer-Ist-Der-M-rderss4.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
     </tr>
    </table>
 
