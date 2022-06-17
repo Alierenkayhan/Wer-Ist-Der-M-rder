@@ -44,8 +44,8 @@ You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mr
 
 ## Features
 1-Features of Wer Ist Der Mörder? <br/>
-    - 3D game<br/>
-    - Horror game <br/>
+    - 2D game<br/>
+    - Instructional game <br/>
    
 ## Screenshots
   1-Screenshots of Wer Ist Der Mörder?
