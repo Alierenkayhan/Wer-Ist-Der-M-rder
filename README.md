@@ -7,13 +7,13 @@
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/issues/Alierenkayhan/Wer-Ist-Der-M-rder)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/forks/Alierenkayhan/Wer-Ist-Der-M-rder)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/stars/Alierenkayhan/Wer-Ist-Der-M-rder)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/license/Alierenkayhan/Wer-Ist-Der-M-rder)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Wer-Ist-Der-M-rder)](https://github.com/Alierenkayhan/Wer-Ist-Der-M-rder/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Wer-Ist-Der-M-rder/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Wer-Ist-Der-M-rder)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Wer-Ist-Der-M-rder)
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Wer-Ist-Der-M-rder?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Wer-Ist-Der-M-rder)
-    
+   
 </div>
 
 
