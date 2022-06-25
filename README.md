@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # Wer Ist Der Mörder?
 
@@ -51,12 +51,12 @@ You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mr
   1-Screenshots of Wer Ist Der Mörder?
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss1.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss2.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss1.jpg" alt="Wer Ist Der Mörder?" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss2.jpg" alt="Wer Ist Der Mörder?" width ="100%" height = "auto" /></p></td>
     </tr>
     <tr>
-        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss3.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss4.jpg" alt="Wer Ist Der Mörder?" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss3.jpg" alt="Wer Ist Der Mörder?" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss4.jpg" alt="Wer Ist Der Mörder?" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
