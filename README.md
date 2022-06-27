@@ -4,15 +4,34 @@
 
 <div align="center">
     
+
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Wer-Ist-Der-M-rder?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/Wer-Ist-Der-M-rder?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/Wer-Ist-Der-M-rder?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Wer-Ist-Der-M-rder)](https://github.com/Alierenkayhan/Wer-Ist-Der-M-rder/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/issues/Alierenkayhan/Wer-Ist-Der-M-rder)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/Wer-Ist-Der-M-rder)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/Wer-Ist-Der-M-rder)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/Wer-Ist-Der-M-rder) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/forks/Alierenkayhan/Wer-Ist-Der-M-rder)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Wer-Ist-Der-M-rder)](https://img.shields.io/github/stars/Alierenkayhan/Wer-Ist-Der-M-rder)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Wer-Ist-Der-M-rder)](https://github.com/Alierenkayhan/Wer-Ist-Der-M-rder/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Wer-Ist-Der-M-rder/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Wer-Ist-Der-M-rder/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/Wer-Ist-Der-M-rder)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Wer-Ist-Der-M-rder)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Wer-Ist-Der-M-rder)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Wer-Ist-Der-M-rder)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/Wer-Ist-Der-M-rder) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Wer-Ist-Der-M-rder/total)
+ <a href="https://github.com/Alierenkayhan/Wer-Ist-Der-M-rder/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+<a href="https://alierenkayhan.itch.io/wer-ist-der-mrder">
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fwer-ist-der-mrder)
+</a>
+
    
 </div>
 
