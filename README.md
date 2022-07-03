@@ -51,6 +51,7 @@ You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mr
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
 * [Screenshots](#Screenshots)
+* [Game](#Game)
 * [Setup](#Setup)
 * [Lisans](#Lisans)
 * [Feedback](#Feedback)
@@ -78,6 +79,9 @@ You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mr
         <td>  <img align="left" src="screenshots/Wer-Ist-Der-M-rderss4.jpg" alt="Wer Ist Der Mörder?" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
+   
+## Game
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-bw.png)](https://alierenkayhan.itch.io/wer-ist-der-mrder)
 
 ## Setup  
   -Go to the link.<br/>
