@@ -40,10 +40,7 @@
 - Teach one of the German Grammar rules, "Relativsätze im Nominative".
 - Assist by Bige Kolukısa İnelmen who is an academician at Bogazici University
 - Published on itch.io
-
-You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mrder
- 
- 
+- You can play it from this website = https://alierenkayhan.itch.io/wer-ist-der-mrder
 
 
 ## Table of Contents
